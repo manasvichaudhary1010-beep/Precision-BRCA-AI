@@ -294,7 +294,7 @@ This provides a single research-oriented summary of the computational analysis.
 
 # 🧠 **THE INTELLIGENCE LAYER**
 
-Precision-BRCA AI is designed around **five connected research questions**:
+Precision-BRCA AI is designed around **five connected research questions**.
 
 ### **1. WHAT?**
 
@@ -354,43 +354,29 @@ The challenge is not only identifying individual mutations or biomarkers, but un
 
 Precision-BRCA AI is designed to bridge these different layers through a unified computational workflow:
 
-**DATA**
-
+### **DATA**
 ↓
-
-**ANALYSIS**
-
+### **ANALYSIS**
 ↓
-
-**PREDICTION**
-
+### **PREDICTION**
 ↓
-
-**EXPLANATION**
-
+### **EXPLANATION**
 ↓
-
-**BIOLOGICAL UNDERSTANDING**
-
+### **BIOLOGICAL UNDERSTANDING**
 ↓
-
-**THERAPEUTIC EVIDENCE**
-
+### **THERAPEUTIC EVIDENCE**
 ↓
-
-**VALIDATION**
-
+### **VALIDATION**
 ↓
+### **RESEARCH DISCOVERY**
 
-**RESEARCH DISCOVERY**
-
-This approach helps transform complex molecular information into a **structured, interpretable, and evidence-aware research workflow**.
+This approach transforms complex molecular information into a **structured, interpretable, and evidence-aware research workflow**.
 
 ---
 
 # 🌐 **RESEARCH VISION**
 
-> ### **BIOLOGICAL DATA → AI → EXPLANATION → BIOLOGY → EVIDENCE → DISCOVERY**
+> ## **BIOLOGICAL DATA → AI → EXPLANATION → BIOLOGY → EVIDENCE → DISCOVERY**
 
 Precision-BRCA AI aims to build a computational framework where **AI supports biological reasoning rather than replacing it**.
 
