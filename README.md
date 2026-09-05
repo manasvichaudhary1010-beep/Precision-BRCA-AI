@@ -120,7 +120,7 @@ Examples include:
 
 The platform can connect molecular alterations with predicted outcomes and downstream biological interpretation.
 
----
+
 
 # 🕸️ **7. PATHWAY & NETWORK ANALYSIS**
 
@@ -134,7 +134,7 @@ Precision-BRCA AI therefore connects molecular alterations to:
 
 This provides mechanistic research context for computational findings.
 
----
+
 
 # 💊 **8. THERAPEUTIC EVIDENCE MAPPING**
 
@@ -148,7 +148,7 @@ This allows researchers to investigate whether a molecular finding has supportin
 
 The platform is designed to distinguish **computational or preclinical evidence** from validated clinical treatment recommendations.
 
----
+
 
 # 🔎 **9. EVIDENCE & PROVENANCE**
 
@@ -181,7 +181,7 @@ Drug sensitivity research
 
 Population-level resources such as **DepMap and GDSC** are treated as **preclinical research evidence**, not as patient-specific treatment-response predictions.
 
----
+
 
 # 📈 **10. VALIDATION**
 
@@ -205,7 +205,7 @@ Precision-BRCA AI incorporates multiple approaches for evaluating computational 
 
 This creates a more transparent research workflow.
 
----
+
 
 # 🤖 **11. AI RESEARCH SYNTHESIS**
 
@@ -227,7 +227,7 @@ The AI layer can connect:
 
 The objective is not simply to generate text, but to organize computational findings into a traceable research narrative.
 
----
+
 
 # 📄 **12. AUTOMATED RESEARCH REPORT**
 
@@ -249,7 +249,7 @@ A report can include:
 
 This provides a single research-oriented summary of the computational analysis.
 
----
+
 
 # ⚙️ **COMPLETE COMPUTATIONAL WORKFLOW**
 
@@ -316,7 +316,7 @@ What scientific literature, datasets, clinical trials, guidelines, or other evid
 
 Which biological mechanisms, molecular targets, therapeutic hypotheses, or research directions warrant further investigation?
 
----
+
 
 # 🛠️ **TECHNOLOGY STACK**
 
@@ -344,7 +344,7 @@ Which biological mechanisms, molecular targets, therapeutic hypotheses, or resea
 
 **Generative AI • Explainable AI • AI-Assisted Research Synthesis**
 
----
+
 
 # 🎯 **WHY PRECISION-BRCA AI?**
 
@@ -372,7 +372,6 @@ Precision-BRCA AI is designed to bridge these different layers through a unified
 
 This approach transforms complex molecular information into a **structured, interpretable, and evidence-aware research workflow**.
 
----
 
 # 🌐 **RESEARCH VISION**
 
@@ -382,7 +381,7 @@ Precision-BRCA AI aims to build a computational framework where **AI supports bi
 
 The platform connects computational predictions with **molecular evidence, biological mechanisms, external research resources, and therapeutic knowledge**, helping researchers move from raw data toward meaningful research hypotheses.
 
----
+
 
 # 👩‍💻 **AUTHOR**
 
@@ -394,7 +393,7 @@ The platform connects computational predictions with **molecular evidence, biolo
 
 **Research • Build • Analyze • Discover**
 
----
+
 
 # ⚠️ **RESEARCH USE ONLY**
 
