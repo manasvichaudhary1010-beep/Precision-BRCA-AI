@@ -1,0 +1,6 @@
+{
+  "name": "Precision-BRCA AI",
+  "description": "An externally validated, explainable multi-omics machine-learning framework for breast cancer precision diagnosis, prognosis, molecular subtyping, and therapeutic target prioritization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
