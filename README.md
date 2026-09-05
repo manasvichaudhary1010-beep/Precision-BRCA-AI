@@ -292,208 +292,124 @@ This provides a single research-oriented summary of the computational analysis.
                            ▼
                     RESEARCH REPORT
 
-**🧠 THE INTELLIGENCE LAYER**
+# 🧠 **THE INTELLIGENCE LAYER**
 
-Precision-BRCA AI is designed around five connected questions:
+Precision-BRCA AI is designed around **five connected research questions**:
 
-WHAT?
+### **1. WHAT?**
 
-What molecular alterations are present?
+What molecular alterations are present in the breast cancer profile?
 
-SO WHAT?
+### **2. SO WHAT?**
 
-What biological processes may be affected?
+What biological processes, pathways, or molecular mechanisms may be affected?
 
-WHY?
+### **3. WHY?**
 
-Which molecular features influenced the prediction?
+Which molecular features contributed to the AI prediction, and how strongly did they influence the result?
 
-WHAT EVIDENCE EXISTS?
+### **4. WHAT EVIDENCE EXISTS?**
 
-What literature, datasets, guidelines, or clinical-trial evidence supports the finding?
+What scientific literature, datasets, clinical trials, guidelines, or other evidence supports the computational finding?
 
-WHAT CAN BE INVESTIGATED NEXT?
+### **5. WHAT CAN BE INVESTIGATED NEXT?**
 
-Which biological mechanisms, targets, or therapeutic hypotheses warrant further research?
+Which biological mechanisms, molecular targets, therapeutic hypotheses, or research directions warrant further investigation?
 
-**🛠️ TECHNOLOGY STACK**
-FRONTEND
+---
 
-React • TypeScript • Vite
+# 🛠️ **TECHNOLOGY STACK**
 
-BACKEND
+### **FRONTEND**
 
-Node.js • Express • FastAPI
+**React • TypeScript • Vite**
 
-BIOINFORMATICS
+### **BACKEND**
 
-Python • Biopython • NGS Workflows
+**Node.js • Express • FastAPI**
 
-DATA SCIENCE
+### **BIOINFORMATICS**
 
-Pandas • R • R Shiny • Machine Learning
+**Python • Biopython • NGS Workflows**
 
-VISUALIZATION
+### **DATA SCIENCE**
 
-Recharts • Interactive Molecular Visualizations • Pathway Networks
+**Pandas • R • R Shiny • Machine Learning**
 
-AI
+### **VISUALIZATION**
 
-Generative AI • Explainable AI • AI-Assisted Research Synthesis
+**Recharts • Interactive Molecular Visualizations • Pathway Networks**
 
-**🎯 WHY PRECISION-BRCA AI?**
+### **AI**
 
-Modern cancer research generates large amounts of molecular information.
+**Generative AI • Explainable AI • AI-Assisted Research Synthesis**
 
-The challenge is connecting those individual findings into a meaningful research workflow.
+---
 
-**Precision-BRCA AI attempts to bridge that gap:**
+# 🎯 **WHY PRECISION-BRCA AI?**
 
-DATA
+Modern cancer research produces **large and complex molecular datasets**.
 
-↓
+The challenge is not only identifying individual mutations or biomarkers, but understanding how different molecular signals connect to **biological mechanisms, disease characteristics, and available evidence**.
 
-ANALYSIS
+Precision-BRCA AI is designed to bridge these different layers through a unified computational workflow:
 
-↓
-
-PREDICTION
+**DATA**
 
 ↓
 
-EXPLANATION
+**ANALYSIS**
 
 ↓
 
-BIOLOGICAL UNDERSTANDING
+**PREDICTION**
 
 ↓
 
-THERAPEUTIC EVIDENCE
+**EXPLANATION**
 
 ↓
 
-VALIDATION
+**BIOLOGICAL UNDERSTANDING**
 
 ↓
 
-RESEARCH DISCOVERY
-
-**🌐 RESEARCH VISION**
-BIOLOGICAL DATA → AI → EXPLANATION → BIOLOGY → EVIDENCE → DISCOVERY
-
-Precision-BRCA AI aims to build a computational framework where AI does not replace biological reasoning, but helps researchers connect molecular data with interpretable biology and evidence.
-
-**👩‍💻 AUTHOR**
-MANASVI PATEL
-
-MSc BioIT | Bioinformatics | Computational Biology | AI
-
-BIOINFORMATICS × AI × PRECISION MEDICINE
-
-Research • Build • Analyze • Discover
-
-🧠 THE INTELLIGENCE LAYER
-
-Precision-BRCA AI is designed around five connected questions:
-
-WHAT?
-
-What molecular alterations are present?
-
-SO WHAT?
-
-What biological processes may be affected?
-
-WHY?
-
-Which molecular features influenced the prediction?
-
-WHAT EVIDENCE EXISTS?
-
-What literature, datasets, guidelines, or clinical-trial evidence supports the finding?
-
-WHAT CAN BE INVESTIGATED NEXT?
-
-Which biological mechanisms, targets, or therapeutic hypotheses warrant further research?
-
-🛠️ TECHNOLOGY STACK
-FRONTEND
-
-React • TypeScript • Vite
-
-BACKEND
-
-Node.js • Express • FastAPI
-
-BIOINFORMATICS
-
-Python • Biopython • NGS Workflows
-
-DATA SCIENCE
-
-Pandas • R • R Shiny • Machine Learning
-
-VISUALIZATION
-
-Recharts • Interactive Molecular Visualizations • Pathway Networks
-
-AI
-
-Generative AI • Explainable AI • AI-Assisted Research Synthesis
-
-🎯 WHY PRECISION-BRCA AI?
-
-Modern cancer research generates large amounts of molecular information.
-
-The challenge is connecting those individual findings into a meaningful research workflow.
-
-Precision-BRCA AI attempts to bridge that gap:
-
-DATA
+**THERAPEUTIC EVIDENCE**
 
 ↓
 
-ANALYSIS
+**VALIDATION**
 
 ↓
 
-PREDICTION
+**RESEARCH DISCOVERY**
 
-↓
+This approach helps transform complex molecular information into a **structured, interpretable, and evidence-aware research workflow**.
 
-EXPLANATION
+---
 
-↓
+# 🌐 **RESEARCH VISION**
 
-BIOLOGICAL UNDERSTANDING
+> ### **BIOLOGICAL DATA → AI → EXPLANATION → BIOLOGY → EVIDENCE → DISCOVERY**
 
-↓
+Precision-BRCA AI aims to build a computational framework where **AI supports biological reasoning rather than replacing it**.
 
-THERAPEUTIC EVIDENCE
+The platform connects computational predictions with **molecular evidence, biological mechanisms, external research resources, and therapeutic knowledge**, helping researchers move from raw data toward meaningful research hypotheses.
 
-↓
+---
 
-VALIDATION
+# 👩‍💻 **AUTHOR**
 
-↓
+## **MANASVI**
 
-RESEARCH DISCOVERY
+**MSc BioIT | Bioinformatics | Computational Biology | AI**
 
-🌐 RESEARCH VISION
-BIOLOGICAL DATA → AI → EXPLANATION → BIOLOGY → EVIDENCE → DISCOVERY
+### **BIOINFORMATICS × AI × PRECISION MEDICINE**
 
-Precision-BRCA AI aims to build a computational framework where AI does not replace biological reasoning, but helps researchers connect molecular data with interpretable biology and evidence.
+**Research • Build • Analyze • Discover**
 
-👩‍💻 AUTHOR
-MANASVI
+---
 
-MSc BioIT | Bioinformatics | Computational Biology | AI
+# ⚠️ **RESEARCH USE ONLY**
 
-BIOINFORMATICS × AI × PRECISION MEDICINE
-
-Research • Build • Analyze • Discover
-
-**⚠️ RESEARCH USE ONLY**
-
-Precision-BRCA AI is a computational and educational research prototype. Its outputs are not clinical diagnoses, treatment recommendations, or substitutes for professional medical decision-making. Computational findings require appropriate scientific, clinical, and regulatory validation before real-world clinical use.
+**Precision-BRCA AI is a computational and educational research prototype. Its outputs are not clinical diagnoses, treatment recommendations, or substitutes for professional medical decision-making. Computational findings require appropriate scientific, clinical, and regulatory validation before any real-world clinical use.**
