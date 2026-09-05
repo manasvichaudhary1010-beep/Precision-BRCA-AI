@@ -12,9 +12,9 @@
 
 Cancer generates complex molecular data involving **genomic alterations, gene expression, biomarkers, pathways, and molecular interactions**. Interpreting these signals separately can make it difficult to understand the overall biological picture.
 
-Precision-BRCA AI brings these components together into a unified workflow.
+**Precision-BRCA AI** brings these components together into a unified computational workflow.
 
-The platform connects:
+### **CORE PIPELINE**
 
 **PATIENT MOLECULAR DATA → MULTI-OMICS ANALYSIS → MOLECULAR SUBTYPING → RISK PREDICTION → EXPLAINABLE AI → BIOLOGICAL INTERPRETATION → THERAPEUTIC EVIDENCE → VALIDATION → RESEARCH REPORT**
 
@@ -28,30 +28,30 @@ The goal is to create a computational bridge between:
 
 ## **1. MOLECULAR DATA ANALYSIS**
 
-The platform accepts molecular and clinical research data and processes it for downstream analysis.
+The platform accepts molecular and clinical research data and prepares it for downstream computational analysis.
 
-Supported research data can include:
+### **Supported Research Data**
 
 - **VCF**
 - **CSV**
 - **TSV**
-- **Gene expression data**
-- **Clinical metadata**
-- **Molecular biomarker information**
+- **Gene Expression Data**
+- **Clinical Metadata**
+- **Molecular Biomarker Information**
 
-The data-processing layer prepares the input for genomic, transcriptomic, predictive, and biological analysis.
+The data-processing layer prepares inputs for **genomic, transcriptomic, predictive, and biological analysis**.
 
 ---
 
 # 🔬 **2. MULTI-OMICS PROFILING**
 
-Precision-BRCA AI combines information from multiple molecular layers to create a broader view of the cancer profile.
+**Precision-BRCA AI** combines information from multiple molecular layers to create a broader view of the cancer profile.
 
 The platform can connect:
 
 **GENOMIC ALTERATIONS + GENE EXPRESSION + BIOMARKERS + CLINICAL INFORMATION**
 
-This allows individual molecular findings to be interpreted as part of a larger biological system rather than as isolated observations.
+This allows individual molecular findings to be interpreted as part of a **larger biological system** rather than as isolated observations.
 
 ---
 
@@ -59,14 +59,14 @@ This allows individual molecular findings to be interpreted as part of a larger 
 
 The platform performs computational molecular subtype analysis.
 
-Major breast cancer molecular categories include:
+### **Major Molecular Categories**
 
-**Luminal A**  
-**Luminal B**  
-**HER2-enriched**  
-**Basal-like**
+- **Luminal A**
+- **Luminal B**
+- **HER2-enriched**
+- **Basal-like**
 
-Subtype information can provide important research context for understanding differences in molecular biology and disease behavior.
+Subtype information provides research context for studying differences in **molecular biology and disease characteristics**.
 
 ---
 
@@ -74,39 +74,39 @@ Subtype information can provide important research context for understanding dif
 
 Precision-BRCA AI includes computational approaches for studying cancer risk and survival.
 
-Analysis can include:
+### **Analysis Pipeline**
 
-**Risk Prediction → Model Evaluation → Survival Analysis**
+**RISK PREDICTION → MODEL EVALUATION → SURVIVAL ANALYSIS**
 
-Supported analytical outputs include:
+### **Analytical Outputs**
 
-- **ROC curves**
+- **ROC Curves**
 - **AUC**
-- **Kaplan–Meier survival analysis**
-- **Cohort comparison**
-- **Model performance evaluation**
+- **Kaplan–Meier Survival Analysis**
+- **Cohort Comparison**
+- **Model Performance Evaluation**
 
-These analyses are intended to evaluate computational models and research hypotheses.
+These analyses are intended to evaluate **computational models and research hypotheses**.
 
 ---
 
 # 🧠 **5. EXPLAINABLE AI**
 
-A prediction alone does not explain why a model produced that result.
+A prediction alone does not explain why a model produced a particular result.
 
-Precision-BRCA AI therefore incorporates **Explainable AI**, including **SHAP-based feature attribution**.
+Precision-BRCA AI incorporates **Explainable AI**, including **SHAP-based feature attribution**.
 
 The system can identify molecular features that contributed to a prediction and provide a more interpretable view of model behavior.
 
-Conceptually:
+### **Interpretation**
 
 **MODEL PREDICTION → FEATURE CONTRIBUTION → BIOLOGICAL INTERPRETATION**
 
 This helps researchers investigate:
 
-- Which biomarkers influenced the model?
-- Which features had greater contribution?
-- What molecular signals are associated with the prediction?
+- **Which biomarkers influenced the model?**
+- **Which features had greater contribution?**
+- **What molecular signals are associated with the prediction?**
 
 ---
 
@@ -114,13 +114,13 @@ This helps researchers investigate:
 
 Important cancer-associated genes and biomarkers can be examined within the molecular profile.
 
-Examples include:
+### **Example Biomarkers**
 
 **BRCA1 • TP53 • EGFR • MKI67 • ESR1 • PIK3CA**
 
-The platform can connect molecular alterations with predicted outcomes and downstream biological interpretation.
+The platform can connect molecular alterations with **predicted outcomes and downstream biological interpretation**.
 
-
+---
 
 # 🕸️ **7. PATHWAY & NETWORK ANALYSIS**
 
@@ -132,9 +132,9 @@ Precision-BRCA AI therefore connects molecular alterations to:
 
 **GENES → INTERACTIONS → PATHWAYS → NETWORKS → BIOLOGICAL MECHANISMS**
 
-This provides mechanistic research context for computational findings.
+This provides **mechanistic research context** for computational findings.
 
-
+---
 
 # 💊 **8. THERAPEUTIC EVIDENCE MAPPING**
 
@@ -144,17 +144,17 @@ Potential molecular vulnerabilities can be connected with:
 
 **TARGETS → DRUGS → PRECLINICAL DATA → CLINICAL TRIALS → SCIENTIFIC LITERATURE**
 
-This allows researchers to investigate whether a molecular finding has supporting therapeutic evidence.
+This allows researchers to investigate whether a molecular finding has **supporting therapeutic evidence**.
 
-The platform is designed to distinguish **computational or preclinical evidence** from validated clinical treatment recommendations.
+The platform distinguishes **computational or preclinical evidence** from validated clinical treatment recommendations.
 
-
+---
 
 # 🔎 **9. EVIDENCE & PROVENANCE**
 
-A computational prediction is more useful when researchers can trace where the supporting evidence comes from.
+A computational prediction becomes more useful when researchers can trace where its supporting evidence comes from.
 
-Precision-BRCA AI incorporates an evidence and provenance layer connecting findings with external resources.
+Precision-BRCA AI incorporates an **evidence and provenance layer** connecting computational findings with external research resources.
 
 ### **Evidence Sources**
 
@@ -179,39 +179,39 @@ Cancer dependency research
 **GDSC**  
 Drug sensitivity research
 
-Population-level resources such as **DepMap and GDSC** are treated as **preclinical research evidence**, not as patient-specific treatment-response predictions.
+> **DepMap and GDSC are treated as population-level preclinical research evidence, not patient-specific treatment-response predictions.**
 
-
+---
 
 # 📈 **10. VALIDATION**
 
 Precision-BRCA AI incorporates multiple approaches for evaluating computational results.
 
-### **Model Validation**
+### **MODEL VALIDATION**
 
-**ROC → AUC → Performance Assessment**
+**ROC → AUC → PERFORMANCE ASSESSMENT**
 
-### **Survival Validation**
+### **SURVIVAL VALIDATION**
 
-**Kaplan–Meier → Survival Comparison**
+**KAPLAN–MEIER → SURVIVAL COMPARISON**
 
-### **Cohort Validation**
+### **COHORT VALIDATION**
 
-**External Dataset → Independent Evaluation → Comparison**
+**EXTERNAL DATASET → INDEPENDENT EVALUATION → COMPARISON**
 
-### **Evidence Validation**
+### **EVIDENCE VALIDATION**
 
-**Prediction → Source → Evidence → Provenance**
+**PREDICTION → SOURCE → EVIDENCE → PROVENANCE**
 
-This creates a more transparent research workflow.
+This creates a more **transparent and reproducible research workflow**.
 
-
+---
 
 # 🤖 **11. AI RESEARCH SYNTHESIS**
 
 The platform can use generative AI to help organize complex computational results into a structured research interpretation.
 
-The AI layer can connect:
+### **AI REASONING LAYER**
 
 **PREDICTION**  
 ↓  
@@ -225,31 +225,31 @@ The AI layer can connect:
 ↓  
 **SCIENTIFIC REFERENCES**
 
-The objective is not simply to generate text, but to organize computational findings into a traceable research narrative.
+The objective is not simply to generate text, but to organize computational findings into a **traceable research narrative**.
 
-
+---
 
 # 📄 **12. AUTOMATED RESEARCH REPORT**
 
 Results from different analytical modules can be combined into a structured research report.
 
-A report can include:
+### **Report Components**
 
-- Molecular profile
-- Predicted subtype
-- Risk analysis
-- Biomarker contributions
-- SHAP explanations
-- Pathway findings
-- Molecular networks
-- Therapeutic evidence
-- Validation results
-- Evidence provenance
-- Scientific references
+- **Molecular Profile**
+- **Predicted Subtype**
+- **Risk Analysis**
+- **Biomarker Contributions**
+- **SHAP Explanations**
+- **Pathway Findings**
+- **Molecular Networks**
+- **Therapeutic Evidence**
+- **Validation Results**
+- **Evidence Provenance**
+- **Scientific References**
 
-This provides a single research-oriented summary of the computational analysis.
+This provides a **single research-oriented summary** of the computational analysis.
 
-
+---
 
 # ⚙️ **COMPLETE COMPUTATIONAL WORKFLOW**
 
@@ -260,141 +260,143 @@ This provides a single research-oriented summary of the computational analysis.
                     DATA PROCESSING
                            │
                            ▼
-                   MULTI-OMICS ANALYSIS
+                    MULTI-OMICS ANALYSIS
                            │
                            ▼
-                MOLECULAR SUBTYPE PREDICTION
+                 MOLECULAR SUBTYPE PREDICTION
                            │
                            ▼
-                    RISK PREDICTION
+                     RISK PREDICTION
                            │
                            ▼
-                   SHAP EXPLAINABILITY
+                    SHAP EXPLAINABILITY
                            │
                            ▼
-              BIOMARKER CONTRIBUTION ANALYSIS
+               BIOMARKER CONTRIBUTION ANALYSIS
                            │
                            ▼
-               PATHWAY & NETWORK ANALYSIS
+                PATHWAY & NETWORK ANALYSIS
                            │
                            ▼
-              THERAPEUTIC EVIDENCE MAPPING
+               THERAPEUTIC EVIDENCE MAPPING
                            │
                            ▼
-                 EXTERNAL VALIDATION
+                  EXTERNAL VALIDATION
                            │
                            ▼
-                  EVIDENCE & PROVENANCE
+                   EVIDENCE & PROVENANCE
                            │
                            ▼
-                 AI RESEARCH SYNTHESIS
+                  AI RESEARCH SYNTHESIS
                            │
                            ▼
-                    RESEARCH REPORT
+                     RESEARCH REPORT
 
-# 🧠 **THE INTELLIGENCE LAYER**
+🧠 THE INTELLIGENCE LAYER
 
-Precision-BRCA AI is designed around **five connected research questions**.
+Precision-BRCA AI is designed around five connected research questions.
 
-### **1. WHAT?**
+1. WHAT?
 
 What molecular alterations are present in the breast cancer profile?
 
-### **2. SO WHAT?**
+2. SO WHAT?
 
 What biological processes, pathways, or molecular mechanisms may be affected?
 
-### **3. WHY?**
+3. WHY?
 
 Which molecular features contributed to the AI prediction, and how strongly did they influence the result?
 
-### **4. WHAT EVIDENCE EXISTS?**
+4. WHAT EVIDENCE EXISTS?
 
 What scientific literature, datasets, clinical trials, guidelines, or other evidence supports the computational finding?
 
-### **5. WHAT CAN BE INVESTIGATED NEXT?**
+5. WHAT CAN BE INVESTIGATED NEXT?
 
 Which biological mechanisms, molecular targets, therapeutic hypotheses, or research directions warrant further investigation?
 
+🛠️ TECHNOLOGY STACK
+FRONTEND
 
+React • TypeScript • Vite
 
-# 🛠️ **TECHNOLOGY STACK**
+BACKEND
 
-### **FRONTEND**
+Node.js • Express • FastAPI
 
-**React • TypeScript • Vite**
+BIOINFORMATICS
 
-### **BACKEND**
+Python • Biopython • NGS Workflows
 
-**Node.js • Express • FastAPI**
+DATA SCIENCE
 
-### **BIOINFORMATICS**
+Pandas • R • R Shiny • Machine Learning
 
-**Python • Biopython • NGS Workflows**
+VISUALIZATION
 
-### **DATA SCIENCE**
+Recharts • Interactive Molecular Visualizations • Pathway Networks
 
-**Pandas • R • R Shiny • Machine Learning**
+AI
 
-### **VISUALIZATION**
+Generative AI • Explainable AI • AI-Assisted Research Synthesis
 
-**Recharts • Interactive Molecular Visualizations • Pathway Networks**
+🎯 WHY PRECISION-BRCA AI?
 
-### **AI**
+Modern cancer research produces large and complex molecular datasets.
 
-**Generative AI • Explainable AI • AI-Assisted Research Synthesis**
-
-
-
-# 🎯 **WHY PRECISION-BRCA AI?**
-
-Modern cancer research produces **large and complex molecular datasets**.
-
-The challenge is not only identifying individual mutations or biomarkers, but understanding how different molecular signals connect to **biological mechanisms, disease characteristics, and available evidence**.
+The challenge is not only identifying individual mutations or biomarkers, but understanding how different molecular signals connect to biological mechanisms, disease characteristics, and available evidence.
 
 Precision-BRCA AI is designed to bridge these different layers through a unified computational workflow:
 
-### **DATA**
+DATA
+
 ↓
-### **ANALYSIS**
+
+ANALYSIS
+
 ↓
-### **PREDICTION**
+
+PREDICTION
+
 ↓
-### **EXPLANATION**
+
+EXPLANATION
+
 ↓
-### **BIOLOGICAL UNDERSTANDING**
+
+BIOLOGICAL UNDERSTANDING
+
 ↓
-### **THERAPEUTIC EVIDENCE**
+
+THERAPEUTIC EVIDENCE
+
 ↓
-### **VALIDATION**
+
+VALIDATION
+
 ↓
-### **RESEARCH DISCOVERY**
 
-This approach transforms complex molecular information into a **structured, interpretable, and evidence-aware research workflow**.
+RESEARCH DISCOVERY
 
+This approach transforms complex molecular information into a structured, interpretable, and evidence-aware research workflow.
 
-# 🌐 **RESEARCH VISION**
+🌐 RESEARCH VISION
+BIOLOGICAL DATA → AI → EXPLANATION → BIOLOGY → EVIDENCE → DISCOVERY
 
-> ## **BIOLOGICAL DATA → AI → EXPLANATION → BIOLOGY → EVIDENCE → DISCOVERY**
+Precision-BRCA AI aims to build a computational framework where AI supports biological reasoning rather than replacing it.
 
-Precision-BRCA AI aims to build a computational framework where **AI supports biological reasoning rather than replacing it**.
+The platform connects computational predictions with molecular evidence, biological mechanisms, external research resources, and therapeutic knowledge, helping researchers move from raw data toward meaningful research hypotheses.
 
-The platform connects computational predictions with **molecular evidence, biological mechanisms, external research resources, and therapeutic knowledge**, helping researchers move from raw data toward meaningful research hypotheses.
+👩‍💻 AUTHOR
+MANASVI
 
+MSc BioIT | Bioinformatics | Computational Biology | AI
 
+BIOINFORMATICS × AI × PRECISION MEDICINE
 
-# 👩‍💻 **AUTHOR**
+Research • Build • Analyze • Discover
 
-## **MANASVI**
+⚠️ RESEARCH USE ONLY
 
-**MSc BioIT | Bioinformatics | Computational Biology | AI**
-
-### **BIOINFORMATICS × AI × PRECISION MEDICINE**
-
-**Research • Build • Analyze • Discover**
-
-
-
-# ⚠️ **RESEARCH USE ONLY**
-
-**Precision-BRCA AI is a computational and educational research prototype. Its outputs are not clinical diagnoses, treatment recommendations, or substitutes for professional medical decision-making. Computational findings require appropriate scientific, clinical, and regulatory validation before any real-world clinical use.**
+Precision-BRCA AI is a computational and educational research prototype. Its outputs are not clinical diagnoses, treatment recommendations, or substitutes for professional medical decision-making. Computational findings require appropriate scientific, clinical, and regulatory validation before any real-world clinical use.
